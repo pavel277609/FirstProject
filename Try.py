@@ -26,6 +26,6 @@ print(random.random())
 
 print(sys.version)
 print(sys.platform)
-
+print('Test')
 
 
